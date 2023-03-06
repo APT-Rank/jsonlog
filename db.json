@@ -6,8 +6,10 @@
       }
     ],
     "complex_log":[
-        "aptName": "",
-        "region": "",
-        "date": "",
-    ]
+        {
+            "aptName": "",
+            "region": "",
+            "date": "",
+        }
+    ],
   }
