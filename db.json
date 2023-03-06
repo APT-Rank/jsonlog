@@ -1,15 +1,11 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "complex_log":[
-        {
-            "aptName": "",
-            "region": "",
-            "date": "",
-        }
-    ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "sun"
   }
+}
